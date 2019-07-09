@@ -1,1 +1,1 @@
-Creating a new branch is quick and simple xxxxxx.
+Creating a new branch is quick and simple xxx.
